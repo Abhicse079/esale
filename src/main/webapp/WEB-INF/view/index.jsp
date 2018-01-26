@@ -1,5 +1,19 @@
+<%@ taglib uri="http://www.springframework.org/tags/form" prefix="form"%>
 <html>
+<head>
+<title>Registration Page</title>
+</head>
 <body>
-<h2>Hello World!</h2>
+
+<table>
+
+ <tr>
+    <td><a href="login">Login</a>
+    </td>
+    <td><a href="register">Register</a>
+     </td>
+   </tr>
+</table>
+
 </body>
 </html>
